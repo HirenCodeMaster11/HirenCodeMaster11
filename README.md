@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C Language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hirenbambhaniya?tab=repositories](https://github.com/HirenCodeMaster11?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/HirenCodeMaster11?tab=repositories
 
 - 📫 How to reach me **hirenbambhaniya120@gmail.com**
 
